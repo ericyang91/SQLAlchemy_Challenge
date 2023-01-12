@@ -65,9 +65,10 @@ def stations():
     session.close()
 
     list_station = []
-    for station, name in all_stations:
+    for query in all_stations:
         json_stations = {}
-        json_stations[station] = name
+        json_stations["station"] = query[0]
+        json_stations["name"] = query[1]
         list_station.append(json_stations)
 
     return jsonify(list_station)
