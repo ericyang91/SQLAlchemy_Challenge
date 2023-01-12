@@ -11,7 +11,7 @@
 The previous 12 months of precipitation data from the most recent date in the dataset:
 </br></br>
 <p align="center">
-  <img src="https://github.com/ericyang91/School_Budgeting_Analysis/blob/main/Images/rawdata.png" alt="rawdata"/>
+  <img src="https://github.com/ericyang91/SQLAlchemy_Challenge/blob/main/Resources/precip.jpg" alt="precip"/>
 </p>
 </br>
 
@@ -23,7 +23,7 @@ The previous 12 months of precipitation data from the most recent date in the da
 </br>
 </br>
 <p align="center">
-  <img src="https://github.com/ericyang91/School_Budgeting_Analysis/blob/main/Images/districtsummary.png" alt="districtsummary"/>
+  <img src="https://github.com/ericyang91/SQLAlchemy_Challenge/blob/main/Resources/obs.jpg" alt="obs"/>
 </p>
 </br>
 
@@ -31,11 +31,11 @@ The previous 12 months of precipitation data from the most recent date in the da
 </br>
 1) Run app.py and enter the command "python -m flask run" inside the correct directory.</br></br>
 2) Choose from the different routes:</br></br>
-- "/api/v1.0/precipitation": Returns jsonified precipitation data for the final year in the database<br/> 
-- "/api/v1.0/stations": Returns jsonified data of all the stations in the database<br/>
-- "/api/v1.0/tobs": Returns the jsonified data of the past year from the most active station<br/>
-- "/api/v1.0/start/<start>": Enter a start date <YYYY-MM-DD>. Returns the date, min, avg, and max temperatures calculated from the given date to the end of the dataset<br/>
-- "/api/v1.0/start_end/<start>/<end>": Enter a start and an end date <YYYY-MM-DD>. Returns the date, min, avg, and max temperatures calculated from the given start date to the given end date<br/></br>
+-  "/api/v1.0/precipitation": Returns jsonified precipitation data for the final year in the database<br/> 
+-  "/api/v1.0/stations": Returns jsonified data of all the stations in the database<br/>
+-  "/api/v1.0/tobs": Returns the jsonified data of the past year from the most active station<br/>
+-  "/api/v1.0/start/<start>": Enter a start date YYYY-MM-DD. Returns the date, min, avg, and max temperatures calculated from the given date to the end of the dataset<br/>
+-  "/api/v1.0/start_end/<start>/<end>": Enter a start and an end date YYYY-MM-DD. Returns the date, min, avg, and max temperatures calculated from the given start date to the given end date<br/></br>
 3) Enjoy!
 
 
