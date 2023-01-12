@@ -11,7 +11,7 @@
 The previous 12 months of precipitation data from the most recent date in the dataset:
 </br></br>
 <p align="center">
-  <img src="https://github.com/ericyang91/School_Budgeting_Analysis/blob/main/Images/rawdata.png" alt="rawdata"/>
+  <img src="https://github.com/ericyang91/SQLAlchemy_Challenge/blob/main/Resources/obs.jpg" alt="obs"/>
 </p>
 </br>
 
@@ -23,7 +23,7 @@ The previous 12 months of precipitation data from the most recent date in the da
 </br>
 </br>
 <p align="center">
-  <img src="https://github.com/ericyang91/School_Budgeting_Analysis/blob/main/Images/districtsummary.png" alt="districtsummary"/>
+  <img src="https://github.com/ericyang91/SQLAlchemy_Challenge/blob/main/Resources/precip.jpg" alt="precip"/>
 </p>
 </br>
 
