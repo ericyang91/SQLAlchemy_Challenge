@@ -51,6 +51,3 @@ The previous 12 months of precipitation data from the most recent date in the da
 [![datetime](https://img.shields.io/badge/datetime-library-green)](https://docs.python.org/3/library/datetime.html)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-v3.5.1-red)](https://matplotlib.org/)
 [![SQLite](https://img.shields.io/badge/SQLite-v3.36.0-blue)](https://www.sqlite.org/index.html)
-`jupyter notebook v.6.4.8`
-`pandas v.1.4.2`
-`Visual Studio 1.74.1`
