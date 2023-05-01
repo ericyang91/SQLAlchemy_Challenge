@@ -1,6 +1,7 @@
-# Surfs_Up
-
-</br>
+# Surfs Up!
+<p align="center">
+  <img src="https://github.com/ericyang91/SQLAlchemy_Challenge/blob/main/Resources/main.jpg" alt="main"/>
+</p>
 
 ## About:
 
@@ -43,9 +44,13 @@ The previous 12 months of precipitation data from the most recent date in the da
 </br>
 
 ## Languages and Libraries:
-</br>
-
-`python v.3.9.12`
+[![Python](https://img.shields.io/badge/python-v3.10-blue)](https://www.python.org/downloads/release/python-310/)
+[![Pandas](https://img.shields.io/badge/pandas-v1.3.3-blue)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/numpy-v1.21.4-blue)](https://numpy.org/)
+[![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-v1.4.25-blue)](https://www.sqlalchemy.org/)
+[![datetime](https://img.shields.io/badge/datetime-library-green)](https://docs.python.org/3/library/datetime.html)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-v3.5.1-red)](https://matplotlib.org/)
+[![SQLite](https://img.shields.io/badge/SQLite-v3.36.0-blue)](https://www.sqlite.org/index.html)
 `jupyter notebook v.6.4.8`
 `pandas v.1.4.2`
 `Visual Studio 1.74.1`
