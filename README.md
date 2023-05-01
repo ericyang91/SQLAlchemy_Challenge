@@ -5,7 +5,7 @@
 
 ## About:
 
-  The purpose of this project is to do a climate analysis about Honolulu, Hawaii. Variables that are observed include but are not limited to "date", "precipitation", "station", and "temperatures." The first part of the project analyzes the precipitation amount by date as well as the lowest, highest, and average temperatures in Hawaii measured for 12 months by the most active climate station. The second part of the project designs a Flask API based on the observations from the first part of the project.
+  The purpose of this project is to do a climate analysis on Honolulu, Hawaii. Variables that are observed include but are not limited to "date", "precipitation", "station", and "temperatures." The first part of the project analyzes the precipitation amount by date as well as the lowest, highest, and average temperatures in Hawaii measured for 12 months by the most active climate station. The second part of the project designs a Flask API based on the observations from the first part of the project.
 
 ## Precipitation Analysis:
 
